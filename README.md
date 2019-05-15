@@ -2,6 +2,8 @@
 
 Applying MCTS to Tetris dig challenge.  This is an ongoing personal side project.
 
+[Notebook on Google Colab](https://colab.research.google.com/drive/1h0KF2E4jErjFsNvfW21AZSwzAgN0cZ-8)
+
 ## Problem Description
 
 Most AI work on Tetris is done using more traditional rules.  Personally I'm interested in the problem of downstacking challenge with modern Tetris rules, SRS with hold and multiple previews.
